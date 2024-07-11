@@ -1,7 +1,9 @@
 My TO-DO List
-1. Write an article
-2. Code
-3. Study lessons
-4. Attend class on time
-5. Visit library
-6. Apply for IT jobs.
+Write an article
+Code
+Study lessons
+Attend class on time
+Visit library
+Apply for IT jobs.
+Commit to increase your skills in IT
+Search for short courses in IT
